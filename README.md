@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+💻 I'm an iOS engineer
+
+🚕 Currently working on helping people move around with the Beat ride hailing service 
+
+🍏 Apple WWDC Scholarship Winner
+
+🌱 Like to learn new things and expand my knowledge
+
+📫 How to reach me: e-mail in the sidebar ↩️ or visit [my website](https://ekranac.com)
+
 <!--
 **ekranac/ekranac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
